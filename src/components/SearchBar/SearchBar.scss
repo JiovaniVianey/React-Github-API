@@ -1,0 +1,20 @@
+.ui.action.input {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.ui.action.input input {
+  width: 70%;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.ui.action.input button {
+  margin-left: 10px;
+}
+
+.ui.action.input button:hover {
+  background-color: #f3f4f5;
+}
